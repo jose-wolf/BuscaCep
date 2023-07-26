@@ -18,7 +18,6 @@ public class Principal {
         System.out.println("digite algum CEP");
         cep = scanner.nextLine();
 
-
         while(!cep.equalsIgnoreCase("sair")) {
 
             if(cep.equalsIgnoreCase("sair")){
@@ -34,7 +33,7 @@ public class Principal {
                 System.out.println(e.getMessage());
             }
 
-            System.out.println("digite algum CEP, Para sair digite " + "sair");
+            System.out.println("digite algum CEP. Para sair, digite: \"sair\"");
             cep = scanner.nextLine();
         }
 
