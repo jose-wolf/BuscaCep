@@ -5,7 +5,7 @@ public record Endereco(String cep, String logradouro, String complemento,
 
     @Override
     public String toString() {
-        return "CEP = " + cep  +
+        return "cep = " + cep  +
                 ", logradouro = " + logradouro +
                 ", complemento = " + complemento +
                 ", localidade = " + localidade +
