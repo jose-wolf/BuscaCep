@@ -12,6 +12,7 @@ Ao executar o programa o usuário terá que digitar o cep.
 ![image](https://github.com/JoseERBWolf/BuscaCep/assets/103012263/3a86c191-abb4-4686-a486-ef738cc983ac)
 
 Caso o CEP não exista.
+
 ![image](https://github.com/JoseERBWolf/BuscaCep/assets/103012263/f6d1442e-f6b6-4914-b7a9-f10cb047e09f)
 
 para sair do programa basta digitar a palavra "sair".
